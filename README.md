@@ -1,4 +1,4 @@
-# Simple Utility for display what is playing in your player.
+# Simple Utility for display what is playing in your player
 
 - Currently supported only foobar2000.
 - Currently you can't save any configuration.
